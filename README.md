@@ -8,10 +8,10 @@
   <a href="https://discord.com/users/321248884636647424" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="60" height="40" alt="discord logo"  />
   </a>
-  <a href="https://t.me/Mehradhp" target="_blank">
+  <a href="https://web.telegram.org/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/telegram/default.svg" width="60" height="40" alt="telegram logo"  />
   </a>
-  <a href="https://www.instagram.com/m3hr4dhp/" target="_blank">
+  <a href="https://www.instagram.com" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="60" height="40" alt="instagram logo"  />
   </a>
   <a href="https://x.com/Mehr4dhp" target="_blank">
