@@ -40,7 +40,7 @@
 <div align="center">
   <img src="https://cdn.simpleicons.org/android/3DDC84" height="40" alt="android logo"  />
   <img width="20" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" height="40" alt="windows8 logo"  />
+  <img src="https://camo.githubusercontent.com/324d8789f26b89600d8a912820ec096f0f8086218f4451505425848bd4e08520/68747470733a2f2f692e6962622e636f2f354b7053434e762f77696e31312e706e67" height="40" alt="windows8 logo"  />
   <img width="20" />
   <img src="https://cdn.simpleicons.org/discord/5865F2" height="40" alt="discord logo"  />
   <img width="20" />
