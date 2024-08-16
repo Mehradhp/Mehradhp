@@ -1,5 +1,5 @@
 <div align="center">
-  <img height="500" src="https://github.com/Mehradhp/Mehradhp/blob/main/Gifs/I%20WIN!.gif"  />
+  <img height="400" src="https://github.com/Mehradhp/Mehradhp/blob/main/Gifs/I%20WIN!.gif"  />
 </div>
 
 ###
@@ -76,7 +76,7 @@
 ###
 
 <div align="center">
-  <img height="200" src="https://github.com/Mehradhp/Mehradhp/blob/main/Gifs/David.gif"  />
+  <img height="350" src="https://github.com/Mehradhp/Mehradhp/blob/main/Gifs/David.gif"  />
 </div>
 
 ###
