@@ -40,7 +40,7 @@
 <div align="center">
   <img src="https://cdn.simpleicons.org/android/3DDC84" height="40" alt="android logo"  />
   <img width="20" />
-  <img src="https://camo.githubusercontent.com/324d8789f26b89600d8a912820ec096f0f8086218f4451505425848bd4e08520/68747470733a2f2f692e6962622e636f2f354b7053434e762f77696e31312e706e67" height="40" alt="windows8 logo"  />
+  <img src="https://camo.githubusercontent.com/f7bc3e489d7dbc5c8a8fa9ea7c649d98ba85f1aa2250fcc75960e793cd64764f/68747470733a2f2f696d672e69636f6e73382e636f6d2f636f6c6f722f3234302f6e756c6c2f77696e646f77732d31312e706e67" height="40" alt="windows11 logo"  />
   <img width="20" />
   <img src="https://cdn.simpleicons.org/discord/5865F2" height="40" alt="discord logo"  />
   <img width="20" />
