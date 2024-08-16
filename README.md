@@ -29,7 +29,7 @@
 
 ###
 
-<p align="left">- Real Name: Mehrad<br>- Alias: Erwin<br>- Gender: Male<br><br>[Redacted]<br><br>- 🎮 I play Games<br>- 🎵 Listen to Music<br>- 🖥️ Watch Movie/Series/Anime<br>- 📚 Read Book/Manga<br>- 🏃🏻‍♂️ Sometimes Working Out<br>- 📱 Or Just Chilling with My Phone/Laptop.<br><br>[Error: File Corrupted]<br><br>[Redă̶̸ͦc̷̹͋́̃t̴͕͖̀</p>
+<p align="left">- Real Name: Mehrad<br>- Alias: Erwin<br>- Gender: Male<br><br>[Redacted]<br><br>- 🎮 I Play Games<br>- 🎵 Listen to Music<br>- 🖥️ Watch Movie/Series/Anime<br>- 📚 Read Book/Manga<br>- 🏃🏻‍♂️ Sometimes Work Out<br>- 📱 Or Just Chilling with My Phone/Laptop.<br><br>[Error: File Corrupted]<br><br>[Redă̶̸ͦc̷̹͋́̃t̴͕͖̀</p>
 
 ###
 
