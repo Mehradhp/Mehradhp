@@ -84,13 +84,3 @@
 <h6 align="center">Stand Proud, You are Strong.</h6>
 
 ###
-
-<h1 align="left"></h1>
-
-###
-
-<div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=Mehradhp.Mehradhp&left_color=black&right_color=crimson&left_text=%F0%9F%91%81%EF%B8%8F%20Profile%20Views%E2%80%8E%20%E2%80%8E%20"  />
-</div>
-
-###
