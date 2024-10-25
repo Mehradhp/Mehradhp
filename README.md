@@ -21,7 +21,7 @@
 
 ###
 
-<h1 align="center">ℂУᏰƎЯρƧУℂℍø</h1>
+<h1 align="center">𝕱𝖊𝖆𝖗 𝖙𝖍𝖊 𝕺𝖑𝖉 𝕭𝖑𝖔𝖔𝖉</h1>
 
 ###
 
@@ -29,7 +29,7 @@
 
 ###
 
-<p align="left">- Real Name: Mehrad<br>- Alias: Erwin<br>- Gender: Male<br><br>[Redacted]<br><br>- 🎮 I Play Games<br>- 🎵 Listen to Music<br>- 🖥️ Watch Movie/Series/Anime<br>- 📚 Read Book/Manga<br>- 🏃🏻‍♂️ Sometimes Work Out<br>- 📱 Or Just Chilling with My Phone/Laptop.<br><br>[Error: File Corrupted]<br><br>[Redă̶̸ͦc̷̹͋́̃t̴͕͖̀</p>
+<p align="left">- Real Name: Mehrad<br>- Alias: Erwin, Yharnamite<br>- Gender: Male<br><br>[Redacted]<br><br>- 🎮 I Play Games<br>- 🎵 Listen to Music<br>- 🖥️ Watch Movie/Series/Anime<br>- 📚 Read Book/Manga<br>- 🏃🏻‍♂️ Sometimes Work Out<br>- 📱 Or Just Chilling with My Phone/Laptop.<br><br>[Error: File Corrupted]<br><br>[Redă̶̸ͦc̷̹͋́̃t̴͕͖̀</p>
 
 ###
 
