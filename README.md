@@ -1,5 +1,5 @@
 <div align="center">
-  <img height="400" src="https://github.com/Mehradhp/Mehradhp/blob/main/Gifs/I%20WIN!.gif"  />
+  <img height="400" src="https://github.com/Mehradhp/Mehradhp/blob/main/Gifs/bloodborne.gif"  />
 </div>
 
 ###
@@ -76,7 +76,7 @@
 ###
 
 <div align="center">
-  <img height="350" src="https://github.com/Mehradhp/Mehradhp/blob/main/Gifs/bloodborne.gif"  />
+  <img height="350" src="https://github.com/Mehradhp/Mehradhp/blob/main/Gifs/Extra%20Funny%20Picture.gif"  />
 </div>
 
 ###
@@ -84,4 +84,3 @@
 <h6 align="center">Stand Proud, You are Strong.</h6>
 
 <h1 align="left"></h1>
-###
