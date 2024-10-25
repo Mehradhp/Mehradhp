@@ -82,5 +82,3 @@
 ###
 
 <h6 align="center">Stand Proud, You are Strong.</h6>
-
-<h1 align="left"></h1>
