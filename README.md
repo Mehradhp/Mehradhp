@@ -76,9 +76,9 @@
 ###
 
 <div align="center">
-  <img height="350" src="https://github.com/Mehradhp/Mehradhp/blob/main/Gifs/Extra%20Funny%20Picture.gif"  />
+  <img height="350" src="https://github.com/Mehradhp/Mehradhp/blob/main/Gifs/MESSMER%20THE%20IMPALER.gif"  />
 </div>
 
 ###
 
-<h6 align="center">Stand Proud, You are Strong.</h6>
+<h6 align="center">Mother, Wouldst Thou Truly Lordship Sanction, In One So Bereft of Light?</h6>
