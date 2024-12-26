@@ -81,4 +81,4 @@
 
 ###
 
-<h6 align="center">Mother, Wouldst Thou Truly Lordship Sanction, In One So Bereft of Light?</h6>
+<h6 align="center">Mother, Wouldst thou truly Lordship sanction, in one so bereft of light?</h6>
