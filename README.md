@@ -26,7 +26,7 @@
 
 ###
 
-<p align="left">- Real Name: Mehrad<br>- Alias: Erwin, Yharnamite<br>- Gender: Male<br><br>[Redacted]<br><br>- 🎮 Plays Game<br>- 🎵 Listens to Music<br>- 🖥️ Watches Anime/Movie/Series<br>- 📚 Reads Book<br>- 📱 Sometimes Just Chilling.<br><br>[Error: File Corrupted]<br><br>[Redă̶̸ͦc̷̹͋́̃t̴͕͖̀</p>
+<p align="left">- Real Name: Mehrad<br>- Alias: Erwin, Yharnamite<br>- Gender: Male<br><br>[Redacted]<br><br>- 🎮 Plays Game<br>- 🎵 Listens to Music<br>- 🖥️ Watches Anime/Movie/Series<br>- 📚 Reads Book<br>- 📱 Sometimes Just Chills.<br><br>[Error: File Corrupted]<br><br>[Redă̶̸ͦc̷̹͋́̃t̴͕͖̀</p>
 
 ###
 
@@ -37,7 +37,7 @@
 <div align="center">
   <img src="https://cdn.simpleicons.org/android/3DDC84" height="40" alt="android logo"  />
   <img width="20" />
-  <img src="https://camo.githubusercontent.com/9469fb794575aa9c344fa25d2f6e03c40c977bd77c7ead9fd59a539ed488a83b/68747470733a2f2f696d616765732e706c696e672e636f6d2f696d672f30302f30302f36342f36362f30322f313730303531342f31312e706e67" height="40" alt="windows11 logo"  />
+  <img src="https://explore-feed.github.com/topics/windows/windows.png" height="40" alt="windows11 logo"  />
   <img width="20" />
   <img src="https://cdn.simpleicons.org/discord/5865F2" height="40" alt="discord logo"  />
   <img width="20" />
