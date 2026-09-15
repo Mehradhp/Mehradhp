@@ -25,7 +25,7 @@
   <img width="20" />
   <img src="https://explore-feed.github.com/topics/windows/windows.png" height="40" alt="windows11 logo"  />
   <img width="20" />
-  <img src="https://commons.wikimedia.org/wiki/File:Telegram_2019_Logo.svg" height="40" alt="telegram logo"  />
+  <img src="https://github.com/matomo-org/matomo-icons/blob/master/src/socials/web.telegram.org.svg" height="40" alt="telegram logo"  />
   <img width="20" />
   <img src="https://cdn.simpleicons.org/instagram/E4405F" height="40" alt="instagram logo"  />
   <img width="20" />
