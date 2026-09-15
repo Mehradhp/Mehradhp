@@ -35,7 +35,7 @@
   <img width="20" />
   <img src="https://cdn.simpleicons.org/github/181717" height="40" alt="github logo"  />
   <img width="20" />
-  <img src="https://en.wikipedia.org/wiki/Visual_Studio_Code#/media/File:Visual_Studio_Code_1.35_icon.svg" height="40" alt="visualstudiocode logo"  />
+  <img src="https://user-images.githubusercontent.com/674621/71187801-14e60a80-2280-11ea-94c9-e56576f76baf.png" height="40" alt="visualstudiocode logo"  />
   <img width="20" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
 </div>
