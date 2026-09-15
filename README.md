@@ -12,7 +12,7 @@
 
 ###
 
-<p align="left">- Real Name: Mehrad<br>- Alias: Erwin, Yharnamite<br>- Gender: Male<br><br>[Redacted]<br><br>- 🎮 Plays Game<br>- 🎵 Listens to Music<br>- 🖥️ Watches Anime/Movie/Series<br>- 📚 Reads Book<br>- 📱 Sometimes Just Chills.<br><br>[Error: File Corrupted]<br><br>[Redă̶̸ͦc̷̹͋́̃t̴͕͖̀</p>
+<p align="left">- Real Name: Mehrad<br>- Alias: Erwin, Yharnamite<br>- Gender: Male<br><br>[Redacted]<br><br>[Error: File Corrupted]<br><br>[Redă̶̸ͦc̷̹͋́̃t̴͕͖̀</p>
 
 ###
 
