@@ -12,7 +12,7 @@
 
 ###
 
-<p align="left">- Real Name: [REDACTED]<br>- Alias: Erwin, Yharnamite<br>- Gender: Male<br><br>[Error: File Corrupted]<br><br>[Redă̶̸ͦc̷̹͋́̃t̴͕͖̀</p>
+<p align="left">- Real Name: Mehrad<br>- Alias: Erwin, Yharnamite<br>- Gender: Male<br><br>[Error: File Corrupted]<br><br>[Redă̶̸ͦc̷̹͋́̃t̴͕͖̀</p>
 
 ###
 
