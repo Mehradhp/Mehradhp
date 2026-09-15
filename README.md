@@ -4,20 +4,6 @@
 
 ###
 
-<div align="center">
-  <a href="https://discord.com/users/321248884636647424" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="60" height="40" alt="discord logo"  />
-  </a>
-  <a href="https://web.telegram.org/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/telegram/default.svg" width="60" height="40" alt="telegram logo"  />
-  </a>
-  <a href="https://www.instagram.com" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="60" height="40" alt="instagram logo"  />
-  </a>
-</div>
-
-###
-
 <h1 align="center">𝕱𝖊𝖆𝖗 𝖙𝖍𝖊 𝕺𝖑𝖉 𝕭𝖑𝖔𝖔𝖉</h1>
 
 ###
